@@ -20,7 +20,7 @@ There will be three things done in order to achieve a successful representation 
 ## current work
 
 ### low-level
-  * edge detection
+  * [edge detection](https://github.com/ajchili/feature-extraction/tree/master/edge%20detection)
   * corner detection
   * blob detection
   * ridge detection
