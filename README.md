@@ -12,10 +12,7 @@ There will be three things done in order to achieve a successful representation 
     * Creating a readme file for every technique
     * Addressing the purpose of the technique
     * Determining the best course of action to implement the technique
-2. Plan out project
-  * Create either UML or spreadsheet like files to represent how the project will be formed
-  * Create pseudocode in order to form a general outline for the code
-3. Create the project
+2. Create the project
 
 ## current work
 
