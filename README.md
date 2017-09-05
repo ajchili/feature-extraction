@@ -8,10 +8,10 @@ Create or represent feature extraction techniques provided from the [wikipedia p
 There will be three things done in order to achieve a successful representation of each and every feature extraction technique.
 
 1. Understanding the meaning and process behind the technique
-  * This will start out with a break down of the wikipedia page
-    * Creating a readme file for every technique
-    * Addressing the purpose of the technique
-    * Determining the best course of action to implement the technique
+   * This will start out with a break down of the wikipedia page
+     * Creating a readme file for every technique
+     * Addressing the purpose of the technique
+     * Determining the best course of action to implement the technique
 2. Create the project
 
 ## current work
