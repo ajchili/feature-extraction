@@ -28,14 +28,14 @@ With this value obtained, we then calculate if there is an edge. This is done by
 
 With the math out of the way, here are the image processing steps:
 1. Image is obtained. 
-<img src="https://github.com/ajchili/feature-extraction/blob/master/edge%20detection/images/reference.JPG" alt="[reference image](https://github.com/ajchili/feature-extraction/blob/master/edge%20detection/images/reference.JPG)" width="350"/>
+<img src="https://github.com/ajchili/feature-extraction/blob/master/edge%20detection/images/reference.JPG" alt="reference image" width="350"/>
 
 2. Image is converted to greyscale. 
-<img src="https://github.com/ajchili/feature-extraction/blob/master/edge%20detection/images/greyscale.JPG" alt="[greyscale image](https://github.com/ajchili/feature-extraction/blob/master/edge%20detection/images/greyscale.JPG)" width="350"/>
+<img src="https://github.com/ajchili/feature-extraction/blob/master/edge%20detection/images/greyscale.JPG" alt="greyscale image" width="350"/>
 
 3. Every pixel is analyzed.
 4. Output image is produced.
-<img src="https://github.com/ajchili/feature-extraction/blob/master/edge%20detection/images/kernels.JPG" alt="[kernels image](https://github.com/ajchili/feature-extraction/blob/master/edge%20detection/images/kernals.JPG)" width="350"/>
+<img src="https://github.com/ajchili/feature-extraction/blob/master/edge%20detection/images/kernels.JPG" alt="kernels image" width="350"/>
 
 _Image generated with "true" index, viewing in full resolution is recommended. All other generations can be seen under images and have corresponding names to the table above._
 
